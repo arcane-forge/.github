@@ -1,4 +1,9 @@
-### Arcane Forge: Reinventing Blockchain Validation with Reliability and Innovation
+<div align="center" style="font-size:20px">
+    <img alt="Issues" src="https://i.imgur.com/cOi5kc8.png" />
+    <h3>
+        <i>Arcane Forge: Reinventing Blockchain Validation with Reliability and Innovation</i>
+    </h3>
+</div>
 
 Arcane Forge is at the forefront of providing secure, efficient, and scalable validator services for blockchain networks. Our mission is to enhance the integrity and reliability of decentralized ecosystems, supporting a wide array of projects from emerging cryptocurrencies to established platforms. Through our commitment to innovation, security, and community collaboration, Arcane Forge aims to contribute significantly to the growth and sustainability of the blockchain industry.
 
@@ -17,7 +22,7 @@ At Arcane Forge, we recognize the transformative power of blockchain and are ded
 For inquiries, collaborations, or more information about Arcane Forge and our services, please connect with us:
 
 - **Website:** [www.arcaneforge.io](http://www.arcaneforge.io)
-- **Email:** developer@arcaneforge.net
+- **Email:** developer@arcaneforge.io
 - **Twitter:** @ArcaneForge_
 
 Together, let's build a more secure, efficient, and decentralized world.
